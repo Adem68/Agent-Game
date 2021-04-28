@@ -16,7 +16,7 @@ namespace AgentGame
         public static void Main(string[] args)
         {
             enableTyperEffect();
-            Console.WriteLine("Hello Agent, welcome to the club!\n\nYou need to complete the missions for be free.");
+            Console.WriteLine("Hello Agent, welcome to the club!\n\nYou need to complete the missions to be a free.");
             firstMission();
         }
 
