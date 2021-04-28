@@ -1,4 +1,4 @@
-# Agent-Game
+# Agent Game
 
 I made this game for the Digital Game Design lesson homework
 
