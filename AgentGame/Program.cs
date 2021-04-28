@@ -96,7 +96,7 @@ namespace AgentGame
             Console.WriteLine("\nisaac@space.gov.il:/agents$ ls \n\nlocations.txt        cars.sql\n");
             askQuestion(Mission.SecondMission, "Enter the command:\n",
                 8);
-            Console.WriteLine("\nroot@mil.army:/agents$ cat locations.txt\n");
+            Console.WriteLine("\nisaac@space.gov.il:/agents$ cat locations.txt\n");
             missionCompleted(Mission.SecondMission);
         }
 
